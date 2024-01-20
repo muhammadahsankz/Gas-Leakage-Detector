@@ -1,6 +1,6 @@
 # gas_detector
 
-A new Flutter project.
+My Final Year Project. It is integrated with a Hardware device that detects gas leaks and send data to Firebase and that data is shown in this app.
 
 ## Getting Started
 
