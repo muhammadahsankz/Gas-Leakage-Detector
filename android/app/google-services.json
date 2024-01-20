@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64886951182",
+    "project_id": "gas-detector-71203",
+    "storage_bucket": "gas-detector-71203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64886951182:android:b66b0a1877b07df7a79b5f",
+        "android_client_info": {
+          "package_name": "com.example.gas_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAP0YtWHaNl1UP2sykHMk5GeIZoP7Hwbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
